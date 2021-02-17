@@ -1,0 +1,151 @@
+.card-container.card {  
+  padding: 36px 24px;
+}
+
+.headergray{
+  background-color: #474747;
+  padding: 25px 25px 230px 25px;
+}
+
+.bg-gray{
+  background-color: #474747
+}
+
+.randomjokebg{
+  padding: 30px 30px 40px 30px;
+}
+
+.bordergray{
+  border: 1px solid #474747;
+}
+
+.mainjokes{
+  position: absolute;
+  top:0;
+  left: 0;
+  right: 0;
+  margin: auto;
+  width: 1200px;  
+}
+
+.slogan{
+  padding: 100px 0px 60px;  
+  color: #f4dd7b;
+  text-align: center;
+  font-family: 'Rowdies', cursive;
+  font-size:x-large;
+}
+
+.jokescontainer{
+  display: flex;
+  flex-direction: row;
+  flex-wrap:wrap;
+  justify-content: space-between;
+}
+
+.postitjoke{
+  padding-bottom: 80px;
+}
+
+.postitdiv{
+  background: #f4dd7b; 
+  width:280px; 
+  height:200px; 
+  position:relative;
+  margin-top: 32px;
+}
+
+.postitcontent{  
+    text-align: center;
+    padding-right: 30px;
+    padding-bottom: 40px;
+    padding-left: 30px;
+    padding-top: 45px;
+}
+
+.postititle{  
+  font-family: 'Rowdies', cursive;
+  font-size:medium;
+  font-weight: bold;
+}
+
+.logo{
+  background-image: url(../src/assets/logo.svg);  
+  background-size: 90px 90px;
+  background-repeat: no-repeat;  
+  background-position: left;
+  position:relative;
+  float:left; 
+  width:100%; 
+  height:75px; 
+  z-index: 1000;  
+}
+
+.beer{
+  background-image: url(../src/assets/beer.svg);
+  background-size: 90px 90px;
+  background-repeat: no-repeat;  
+  background-position: center;
+  position:relative;
+  float:left; 
+  width:100%; 
+  height:64px; 
+  z-index: 1000;  
+}
+
+.fun{
+  background-image: url(../src/assets/fun.svg);  
+  background-size: 90px 90px;
+  background-repeat: no-repeat;  
+  background-position: center;
+  position:relative;
+  float:left; 
+  width:100%; 
+  height:100px; 
+  z-index: 1000;  
+}
+
+.hug{
+  background-image: url(../src/assets/hug.svg);  
+  background-size: 90px 90px;
+  background-repeat: no-repeat;  
+  background-position: center;
+  position:relative;
+  float:left; 
+  width:100%; 
+  height:75px; 
+  z-index: 1000;  
+}
+
+.sad{
+  background-image: url(../src/assets/sad.svg);  
+  background-size: 90px 90px;
+  background-repeat: no-repeat;  
+  background-position: center;
+  position:relative;
+  float:left; 
+  width:100%; 
+  height:75px; 
+  z-index: 1000;  
+}
+
+.randomSidebar{
+  width:280px
+}
+
+.randomButton{
+  background-color: #f4dd7b;
+}
+
+.itemResultList{
+  border-bottom: 1px solid #474747; 
+  padding:10px 0px;
+  color:#474747
+}
+
+
+
+.w512{
+  width: 512px;
+}
+
